@@ -15,3 +15,4 @@ To add:
 
 
 All of these blocklists will lead PeerBlock to block 2.6+ billion IPs. 
+Includes the BT Blocklist (https://github.com/Naunter/BT_BlockLists) & Sahsu (https://github.com/sahsu/transmission-blocklist/releases/latest/download/blocklist.gz)
