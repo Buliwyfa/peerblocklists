@@ -16,3 +16,9 @@ To add:
 
 All of these blocklists will lead PeerBlock to block 2.6+ billion IPs. 
 Includes the BT Blocklist (https://github.com/Naunter/BT_BlockLists) & Sahsu (https://github.com/sahsu/transmission-blocklist/releases/latest/download/blocklist.gz)
+
+IF YOU'RE DOING RESEARCH: It may be interesting for you to know that there is a compiled list of national and corporate IPs. For instance, the NORTH_KOREA.p2p file contains the IP address range used in the DPRK. Some of these blocklists also hold known IPs for companies, government departments (foreign and abroad), and firms (Haliburton, marketing agencies, social media, etc.). 
+
+
+
+Speaking of Haliburton, I'm currently trying to make my own blocklist to contribute to this. I am compiling IPs known to be associated to Haliburton (the oil company). Why Haliburton? Well, the IPs associated with Haliburton Company are already in other blocklists included in this repo. These IPs, for many PeerBlock users (although primarily public-trackers peer-to-peer users) often times get flagged and blocked by PeerBlock.
