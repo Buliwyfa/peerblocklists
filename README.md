@@ -12,3 +12,6 @@ To add:
 #Repeat step #3 for every list you want. 
 
 4.After you're done adding your lists, close the window by hitting the X and Peerblock will automatically update the list. (keep an eye on the "Blocking X IPs number to confirm a change, you can also fully restart PeerBlock to confirm)
+
+
+All of these blocklists will lead PeerBlock to block 2.6+ billion IPs. 
